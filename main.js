@@ -4,7 +4,8 @@ let elementUl = document.querySelector('#app ul');
 
 var listTodo = ['Estudar javaScript',
                 'acordar cedo para treinar',
-                'controlar alimentação durante todo dia'];
+                'controlar alimentação durante todo dia',
+                'controlar horarios'];
 
 
 var  carregaTodo = () => {
